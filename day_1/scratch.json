@@ -1,0 +1,77 @@
+[
+    {
+        "name": "asparagus",
+        "type": "vegetables",
+        "top_producers": [
+            "China",
+            "Peru",
+            "Mexico"
+        ],
+        "nutrition": {
+            "calories": 20,
+            "fat": 0.1,
+            "carbs": 3.88,
+            "protein": 2.2
+        }
+    },
+    {
+        "name": "broccoli",
+        "type": "vegetables",
+        "top_producers": [
+            "China",
+            "India",
+            "USA"
+        ],
+        "nutrition": {
+            "calories": 34,
+            "fat": 0.4,
+            "carbs": 6.64,
+            "protein": 2.82
+        }
+    },
+    {
+        "name": "carrots",
+        "type": "vegetables",
+        "top_producers": [
+            "China",
+            "Uzbekistan",
+            "Russia"
+        ],
+        "nutrition": {
+            "calories": 41,
+            "fat": 0.2,
+            "carbs": 9.58,
+            "protein": 0.93
+        }
+    },
+    {
+        "name": "eggs",
+        "type": "dairy",
+        "top_producers": [
+            "China",
+            "USA",
+            "India"
+        ],
+        "nutrition": {
+            "calories": 155,
+            "fat": 10.6,
+            "carbs": 1.1,
+            "protein": 12.6
+        }
+    },
+    {
+        "name": "milk",
+        "type": "dairy",
+        "top_producers": [
+            "USA",
+            "India",
+            "China"
+        ],
+        "nutrition": {
+            "calories": 42,
+            "fat": 2.4,
+            "carbs": 4.7,
+            "protein": 3.4
+        }
+    }
+]

@@ -1,0 +1,17 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+# zip files
+*.gz
+
+# env file
+.env
+
+# ignore work in progress folders
+
+# ignore zap folder files ###
+/zap
+/bak
+/misc
